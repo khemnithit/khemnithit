@@ -1,5 +1,3 @@
-###### List
-
 #### Pharmacy Course เนื้อหาคณะเภสัชศาสตร์
 
 - 513256-55 PRINCIPLES OF ORGANIC CHEMISTRY  
@@ -15,3 +13,5 @@
 
   [YouTube playlist](https://youtube.com/playlist?list=PLnbNoQ3EUjctEaEYndOiS3zNLcOHaJhzI&si=kxJdiqO0eBZOKD_N)  
   [Sheets (Google Drive)](https://drive.google.com/drive/folders/1huWmfVSG9uVcJELp263cbodIV_JiiXni)  
+
+#### New Course - coming soon
