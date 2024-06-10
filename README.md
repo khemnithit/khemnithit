@@ -1,5 +1,8 @@
-### List
+###### List
 
-##### Pharmacy Course เนื้อหาคณะเภสัชศาสตร์
+#### Pharmacy Course เนื้อหาคณะเภสัชศาสตร์
 
 - 513108-55 GENERAL CHEMISTRY FOR PHARMACY STUDENTS เคมีทั่วไปสำหรับนักศึกษาเภสัชศาสตร์
+
+  [YouTube playlist](https://youtube.com/playlist?list=PLnbNoQ3EUjctEaEYndOiS3zNLcOHaJhzI&si=kxJdiqO0eBZOKD_N)
+  [Sheets (Google Drive)](https://drive.google.com/drive/folders/1huWmfVSG9uVcJELp263cbodIV_JiiXni)
