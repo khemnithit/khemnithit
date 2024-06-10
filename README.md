@@ -1,9 +1,5 @@
-# List
+### List
 
-## Pharmacy Course
+##### Pharmacy Course เนื้อหาคณะเภสัชศาสตร์
 
-เนื้อหาคณะเภสัชศาสตร์
-
-### 513108-55 GENERAL CHEMISTRY FOR PHARMACY STUDENTS
-
-เคมีทั่วไปสำหรับนักศึกษาเภสัชศาสตร์
+- 513108-55 GENERAL CHEMISTRY FOR PHARMACY STUDENTS เคมีทั่วไปสำหรับนักศึกษาเภสัชศาสตร์
