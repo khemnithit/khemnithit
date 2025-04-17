@@ -10,17 +10,17 @@
 
 #### Completed
 วิชาที่จบแล้ว
-1. GENERAL CHEMISTRY FOR PHARMACY STUDENTS
-   (513108-55 เคมีทั่วไปสำหรับนักศึกษาเภสัชศาสตร์)
-2. PRINCIPLES OF ORGANIC CHEMISTRY
-   (513256-55 หลักเคมีอินทรีย์)
-5. PHYSICAL CHEMISTRY (513220-55 เคมีฟิสิกัล)
-6. GENERAL PHYSICS FOR PHARMACY STUDENTS (514109-55 ฟิสิกส์ทั่วไปสำหรับนักศึกษาเภสัชศาสตร์)
-7. PHARMACEUTICAL BOTANY (566301-59 เภสัชพฤกษศาสตร์) *ไม่มีคลิป แต่มีชีต [link](https://drive.google.com/drive/folders/1dtew5V-vOd-E90UT03dh4CO41PZWmQOR?usp=sharing)*
-8. STATISTICS AND PHARMACEUTICAL APPLICATIONS (568351-59 สถิติและการประยุกต์ทางเภสัชศาสตร์)
-9. PHARMACEUTICAL TECHNOLOGY II (567302-59 เทคโนโลยีเภสัชกรรม 2)
-10. PHARMACEUTICAL ANALYSIS I (564302-59 เภสัชวิเคราะห์ 1)
-11. 
+- GENERAL CHEMISTRY FOR PHARMACY STUDENTS
+  (513108-55 เคมีทั่วไปสำหรับนักศึกษาเภสัชศาสตร์)
+- PRINCIPLES OF ORGANIC CHEMISTRY
+  (513256-55 หลักเคมีอินทรีย์)
+- PHYSICAL CHEMISTRY
+  (513220-55 เคมีฟิสิกัล)
+- GENERAL PHYSICS FOR PHARMACY STUDENTS (514109-55 ฟิสิกส์ทั่วไปสำหรับนักศึกษาเภสัชศาสตร์)
+- PHARMACEUTICAL BOTANY (566301-59 เภสัชพฤกษศาสตร์) *ไม่มีคลิป แต่มีชีต [link](https://drive.google.com/drive/folders/1dtew5V-vOd-E90UT03dh4CO41PZWmQOR?usp=sharing)*
+- STATISTICS AND PHARMACEUTICAL APPLICATIONS (568351-59 สถิติและการประยุกต์ทางเภสัชศาสตร์)
+- PHARMACEUTICAL TECHNOLOGY II (567302-59 เทคโนโลยีเภสัชกรรม 2)
+- PHARMACEUTICAL ANALYSIS I (564302-59 เภสัชวิเคราะห์ 1)
 
 
 
