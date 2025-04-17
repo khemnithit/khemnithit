@@ -44,5 +44,5 @@
 
 ### About me
 สวัสดีครับ ชื่อเขมครับ ติดต่อผมได้ทาง\
-Instagram: khemnithit
+Instagram: khemnithit \
 ![Instagram profile](IG.png)
