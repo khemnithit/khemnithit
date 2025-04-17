@@ -37,3 +37,5 @@
 
 #### Coming soon
 วิชาที่กำลังทำ
+- ฟิสิกส์ เคมี มัธยมปลาย (reupload)
+- Japanese N5
