@@ -12,8 +12,10 @@
 วิชาที่จบแล้ว
 - GENERAL CHEMISTRY FOR PHARMACY STUDENTS 
   (513108-55 เคมีทั่วไปสำหรับนักศึกษาเภสัชศาสตร์)
+  
 - PRINCIPLES OF ORGANIC CHEMISTRY 
   (513256-55 หลักเคมีอินทรีย์)
+  
 - PHYSICAL CHEMISTRY 
   (513220-55 เคมีฟิสิกัล)
 - GENERAL PHYSICS FOR PHARMACY STUDENTS (514109-55 ฟิสิกส์ทั่วไปสำหรับนักศึกษาเภสัชศาสตร์)
