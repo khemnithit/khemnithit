@@ -1,5 +1,9 @@
 ![YouTube playlists](YT.png)
 
+เพื่อน ๆ สามารถดูคลิปติววิชาต่าง ๆ ที่แยกไว้ด้วย playlist ได้ที่
+
+ช่องยูทูป "Khem Nithit"
+หรือกด [link](http://www.youtube.com/@khemnithit5847)
 
 #### Pharmacy Course เนื้อหาคณะเภสัชศาสตร์
 
