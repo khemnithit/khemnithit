@@ -10,11 +10,11 @@
 
 #### Completed
 วิชาที่จบแล้ว
-- GENERAL CHEMISTRY FOR PHARMACY STUDENTS
+- GENERAL CHEMISTRY FOR PHARMACY STUDENTS 
   (513108-55 เคมีทั่วไปสำหรับนักศึกษาเภสัชศาสตร์)
-- PRINCIPLES OF ORGANIC CHEMISTRY
+- PRINCIPLES OF ORGANIC CHEMISTRY 
   (513256-55 หลักเคมีอินทรีย์)
-- PHYSICAL CHEMISTRY
+- PHYSICAL CHEMISTRY 
   (513220-55 เคมีฟิสิกัล)
 - GENERAL PHYSICS FOR PHARMACY STUDENTS (514109-55 ฟิสิกส์ทั่วไปสำหรับนักศึกษาเภสัชศาสตร์)
 - PHARMACEUTICAL BOTANY (566301-59 เภสัชพฤกษศาสตร์) *ไม่มีคลิป แต่มีชีต [link](https://drive.google.com/drive/folders/1dtew5V-vOd-E90UT03dh4CO41PZWmQOR?usp=sharing)*
