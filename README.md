@@ -1,12 +1,24 @@
 ![YouTube playlists](YT.png)
 
 เพื่อน ๆ สามารถดูคลิปติววิชาต่าง ๆ ที่แยกไว้ด้วย playlist ได้ที่
+
 ช่องยูทูป "Khem Nithit"
+
 โดยชีตหรือเอกสารที่เกี่ยวข้องจะอยู่ใน link ในคำอธิบายใต้วิดีโอนั้น ๆ
 
 ---
 
-#### Pharmacy Course เนื้อหาคณะเภสัชศาสตร์
+#### Completed
+วิชาที่จบแล้ว
+1. GENERAL CHEMISTRY FOR PHARMACY STUDENTS (513108-55 เคมีทั่วไปสำหรับนักศึกษาเภสัชศาสตร์)
+2. 
+3. 
+
+
+
+
+
+
 
 - 564302-59 PHARMACEUTICAL ANALYSIS I  
   เภสัชวิเคราะห์ 1  
