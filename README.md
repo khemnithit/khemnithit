@@ -7,6 +7,10 @@
 
 ---
 
+#### Active
+วิชาที่กำลังทำ
+- เตรียมสอบใบประกอบวิชาชีพเภสัชกรรม (VLOG PLE)
+
 #### Completed
 วิชาที่จบแล้ว
 1. GENERAL CHEMISTRY FOR PHARMACY STUDENTS \
@@ -31,14 +35,16 @@
 (561204-59 ชีวเคมีทางการแพทย์)
 11. BASIC PHARMACY ADMINISTRATION II \
 (563258-59 การบริหารเภสัชกิจเบื้องต้น 2)
-12. **New** MEDICINAL CHEMISTRY I \
+12. MEDICINAL CHEMISTRY I \
 (564307-59 เคมีทางยา 1)
-13. **New** PHARMACOLOGY II \
+13. PHARMACOLOGY II \
 (565302-59 เภสัชวิทยา 2)
+14. ฟิสิกส์ เคมี มัธยมปลาย (reupload) \
+15. BIOPHARMACEUTICAL AND PHARMACOKINETICS \
+(562367-59 ชีวเภสัชกรรมและเภสัชจลนพลศาสตร์)
 
 #### Coming soon
-วิชาที่กำลังทำ
-- ฟิสิกส์ เคมี มัธยมปลาย (reupload)
+วิชาที่มีแผนจะทำ
 - Japanese N5
 
 ---
